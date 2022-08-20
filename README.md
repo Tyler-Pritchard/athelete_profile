@@ -1,4 +1,1 @@
-# athlete_profile
-
-- Start server
-`node runserver.js`
+frontend and backend applications contained in separate directories
