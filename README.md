@@ -1,3 +1,4 @@
 # athlete_profile
-# athlete_profile
-# athelete_profile
+
+- Start server
+`node runserver.js`
